@@ -3486,8 +3486,9 @@ h6 {
 }
 .unordered-list li {
   position: relative;
+  line-height: 1em !important;
+  margin: 30px;
   padding-left: 30px;
-  line-height: 1.82em !important;
 }
 .unordered-list li:before {
   content: "";
